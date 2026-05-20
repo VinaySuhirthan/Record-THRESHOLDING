@@ -94,25 +94,29 @@ plt.show()
 
 ### Original Image
 <br>
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/06a44eb9-a7c7-4233-978e-8510cee1a3a2" />
+
+<img width="435" height="291" alt="image" src="https://github.com/user-attachments/assets/ee3305fd-85a9-48d8-8580-5f9d8bbafbdc" />
 
 <br>
 
 ### Global Thresholding
 <br>
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/8490c5e1-5b28-43c5-a0df-9e28d3148b16" />
+
+<img width="434" height="288" alt="image" src="https://github.com/user-attachments/assets/f21a0986-db61-41e4-9a73-27ca97af3b31" />
 
 <br>
 
 ### Adaptive Thresholding
 <br>
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c0ee3ea2-4555-4d66-a5ce-2d85be7ac6e1" />
+<img width="426" height="293" alt="image" src="https://github.com/user-attachments/assets/d05bed6e-f85b-4e76-9ba8-b4500766c982" />
+
 
 <br>
 
 ### Optimum Global Thesholding using Otsu's Method
 <br>
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7edf71d8-1009-428a-8ef3-1c7b91aba390" />
+
+<img width="473" height="290" alt="image" src="https://github.com/user-attachments/assets/5f8e407a-4b68-49fa-8937-0add9aa8d300" />
 
 <br>
 
