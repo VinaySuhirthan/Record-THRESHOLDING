@@ -25,8 +25,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-## NAME : Keerthivasan K S
-## REG NO : 212224230120
+## NAME : K S Vinay Suhirthan
+## REG NO : 212224230305
 
 ## Load the necessary packages
 ```py
